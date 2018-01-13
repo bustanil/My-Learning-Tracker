@@ -40,8 +40,9 @@ A complete log of my web development skills, learning, resources, highlights, in
 | ![Completed][Completed]     | Jan 2018 | The Phoenix Project                                             |                                             |
 | ![In Progress][In Progress] |          | Mastering Bitcoin                                               |                                             |
 | ![In Progress][In Progress] |          | Vaadin                                                          | Vaadin website                              |
+| ![In Progress][In Progress] |          | Functional Programming with Scala                               | Coursera                                    |
 | ![Soon][Soon]               |          | AWS Associate Developer                                         | [Udemy]                                     |
-| ![Soon][Soon]               |          | Learn [Go Programming Language]                                 | [Udemy]                                     |
+| ![Soon][Soon]               |          | Go Programming Language                                         | [Udemy]                                     |
 
 
 ----
