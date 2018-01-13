@@ -1,8 +1,7 @@
-# My Learning Tracker [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Web%20Dev%20learning%20tracker%20&url=https://github.com/Syknapse/My-Learning-Tracker&via=syknapse&hashtags=100DaysofCode)
+# My Learning Tracker
 
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
-[For my full portfolio click here](https://syknapse.github.io/Syk-Houdeib/)
 
 ----
 
@@ -12,29 +11,19 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:--------------------------------:|:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**HTML5**                         | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**CSS3**                          | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**JavaScript**                    | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**ES6**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**GitHub**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Git/Git bash**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Node.js**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Open Source Contribution**      | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Angular 4**                     | ![done][done]     |               |               |                  |                |                 |
-|**Task runners Gulp/Grunt**       | ![done][done]     |               |               |                  |                |                 |
-|**NPM scripts**                   | ![done][done]     |               |               |                  |                |                 |
-|**AJAX**                          | ![done][done]     |               |               |                  |                |          .      |
+|**Java <6**                       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  | ![done][done]   |
+|**Java 7**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Java 8**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Java 9**                        | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Hibernate**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Spring**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
+|**Spring Boot**                   | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Spring Security**               | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
+|**Spring Cloud**                  | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Vaadin**                        | ![done][done]     |               |               |                  |                |                 |
+|**Javascript**                    | ![done][done]     | ![done][done] |               |                  |                |                 |
+|**Scala**                         | ![done][done]     |               |               |                  |                |                 |
+
 
 ----
 
@@ -46,89 +35,14 @@ A complete log of my web development skills, learning, resources, highlights, in
 [In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
 [Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
-|            Status           |   Year   | Course                                                          |                Tutor                        |
+|            Status           |   Year   | Course/Book                                                     |                Tutor/Author                 |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Jan 2018 | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
-| ![Completed][Completed]     | 2017     | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
-| ![Completed][Completed]     | 2017     | [CSS Essential Training 3]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
-| ![Completed][Completed]     | 2017     | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
-| ![Completed][Completed]     | 2017     | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
-| ![In Progress][In Progress] |          | [The Web Developer Bootcamp - Back End]                         | Colt Steele - [Udemy]                       |
-| ![In Progress][In Progress] |          | [Front End Development]                                         | [Free Code Camp]                            |
-| ![In Progress][In Progress] |          | [JavaScript30]                                                  | [Wes Bos]                                   |
-| ![In Progress][In Progress] |          | Read [JavaScript & jQuery]                                      | Jon Duckett                                 |
-| ![In Progress][In Progress] |          | [Learn CSS Grid]                                                | [Per Harald Borgen] - [Scrimba]             |
-| ![Soon][Soon]               |          | Read [Eloquent JavaScript]                                      | [Marijn Haverbeke]                          |
+| ![Completed][Completed]     | Jan 2018 | The Phoenix Project                                             |                                             |
+| ![In Progress][In Progress] |          | Mastering Bitcoin                                               |                                             |
+| ![In Progress][In Progress] |          | Vaadin                                                          | Vaadin website                              |
+| ![Soon][Soon]               |          | AWS Associate Developer                                         | [Udemy]                                     |
+| ![Soon][Soon]               |          | Learn [Go Programming Language]                                 | [Udemy]                                     |
 
-[//]: # (Reference links to courses)
-
-[Workflow Tools for Web Developers]: https://www.lynda.com/Web-Design-tutorials/Workflow-Tools-Web-Development/533305-2.html
-[Learning Git and GitHub]: https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html
-[CSS Essential Training 3]: https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-3/609030-2.html
-[CSS Essential Training 2]: https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-2/569189-2.html
-[Getting Your Website Online]: https://www.lynda.com/Web-Development-tutorials/Getting-Your-Website-Online/609031-2.html
-[Learn Enough Command Line to Be Dangerous]: https://www.learnenough.com/command-line-tutorial
-[Basic Front End Development Projects]: https://www.freecodecamp.org/syknapse
-[The Web Developer Bootcamp - Frond End]: https://www.udemy.com/the-web-developer-bootcamp
-[The Web Developer Bootcamp - Back End]: https://www.udemy.com/the-web-developer-bootcamp
-[Front End Development]: https://www.freecodecamp.org/syknapse
-[Google Developer Challenge Scholarship]: https://www.udacity.com/google-scholarships
-[JavaScript30]: https://javascript30.com/
-[JavaScript & jQuery]: http://javascriptbook.com/
-[Eloquent JavaScript]: http://eloquentjavascript.net/
-[Learn CSS Grid]: https://scrimba.com/g/gR8PTE
-
-[//]: # (Reference links to tutors)
-
-[Christina Truong]: https://twitter.com/christinatruong
-[Lynda.com]: https://www.lynda.com
-[Ray Villalobos]: https://twitter.com/planetoftheweb
-[Michael Hartl]: https://twitter.com/mhartl
-[Free Code Camp]: https://www.freecodecamp.org
-[Udemy]: https://www.udemy.com
-[Udacity]: https://www.udacity.com
-[Wes Bos]: https://twitter.com/wesbos
-[Marijn Haverbeke]: https://twitter.com/MarijnJH
-[Per Harald Borgen]: https://twitter.com/perborgen
-[Scrimba]: https://scrimba.com/
-
-### Paths
-
-| Paths with multiple resources                             |            Author            |
-|:----------------------------------------------------------|:----------------------------:|
-| [Best JavaScript books, tutorials, courses & videos]      | [ReactDOM]                   |
-| [Learn to code in 2018]                                   | [Andrei Neagoie]             |
-| [Get Job ready - JavaScript Edition]                      | [P1xt]                       |
-| [Full Stack Web Developer Path]                           | [Shovan Chatterjee]          |
-
-[//]: # (Reference links to paths)
-
-[Best JavaScript books, tutorials, courses & videos]: https://reactdom.com/blog/javascript-books
-[Learn to code in 2018]: https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a
-[Get Job ready - JavaScript Edition]: https://github.com/P1xt/p1xt-guides/blob/master/job-ready-javascript-edition-2.0.md
-[Full Stack Web Developer Path]: https://github.com/shovanch/fullstack-web-developer-path
-
-[//]: # (Reference links to authors)
-[ReactDOM]: https://reactdom.com
-[Andrei Neagoie]: https://twitter.com/AndreiNeagoie
-[P1xt]: https://github.com/P1xt
-[Shovan Chatterjee]: https://github.com/shovanch
-
-----
-
-## Highlights
-
-The most interesting of what I'm watching, reading, and doing.
-
-<kbd> [**Click here for playlists and tweets. Articles, talks, tutorials, and more**](https://syknapse.github.io/My-Learning-Tracker/) </kbd>
-
-And here is a chronological log of the highlights of my learning
-
-<kbd> [**My Learning Log**](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md) </kbd>
 
 ----
 
@@ -136,11 +50,8 @@ And here is a chronological log of the highlights of my learning
 
 I'm currently interested in/excited about:
 
-+ React
-+ CSS Grid
-+ Progressive enhancement
-+ Task runners
-+ Command Line and unix commands
++ Bitcoin/Blockchain technology
++ DevOps
 
 ----
 
@@ -154,34 +65,32 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [x] Open the computer’s terminal
 * [x] Use a text editor (bonus points if you have a specific reason for choosing it)
 * [x] Use some keyboard shortcuts
-* [ ] Write tests for your code
+* [x] Write tests for your code
 * [x] Help another web developer with something they’re having trouble with
 * [x] Attend an event about web development
 * [x] Follow developers you admire on social media
-* [ ] Read a book about coding
+* [x] Read a book about coding
 * [x] Open your browser console
-* [ ] Get data from an API
-* [ ] Hide API keys from the public
+* [x] Get data from an API
+* [x] Hide API keys from the public
 * [x] Post a question on Stack Overflow
 * [x] Push code to GitHub or GitLab or BitBucket
 * [ ] Speak about something web development-related at an event
-* [ ] Complete a technical interview
+* [x] Complete a technical interview
 * [ ] Participate in a hackathon
-* [ ] Deploy a project
+* [x] Deploy a project
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
-* [ ] Get paid to code
-* [ ] When people ask what you do, respond saying you’re a developer :)
+* [x] Get paid to code
+* [x] When people ask what you do, respond saying you’re a developer :)
 
 ----
 
-If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
-
-**You can [follow me on Twitter](https://twitter.com/Syknapse "@Syknapse") or [get in touch](https://syknapse.github.io/Syk-Houdeib/#contact "My contact section | Portfolio")**
+Forked from https://github.com/Syknapse/My-Learning-Tracker.
 
 ----
 
-### Acknowledgments
+### Acknowledgements
 
 This has been partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_ch) and his wonderful [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path) project. And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
 
